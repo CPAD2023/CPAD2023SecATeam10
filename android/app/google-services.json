@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "966356582576",
+    "project_id": "cookbookver1",
+    "storage_bucket": "cookbookver1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966356582576:android:2f10d0a6eb910da249fb75",
+        "android_client_info": {
+          "package_name": "com.example.foodapp_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsTW9dTSnprEzjgiOkITOIrbOoDyzhOqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966356582576:android:ad6f216b709b710449fb75",
+        "android_client_info": {
+          "package_name": "com.example.foodapp_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsTW9dTSnprEzjgiOkITOIrbOoDyzhOqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
