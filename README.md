@@ -22,7 +22,6 @@ https://github.com/CPAD2023/CPAD2023SecATeam10/assets/133057108/0dacbdf1-b172-41
 
 
 ## 3. Contributor: ##
-<br /> <br />
 Priti Giramkar (2022SP93016) <br />
 Monika Agrawal (2022SP93054) <br />
 Raghav Dayal   (2022SP93064)
