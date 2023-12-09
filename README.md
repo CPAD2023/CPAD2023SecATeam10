@@ -1,7 +1,13 @@
 # CPAD2023SecATeam10
 CPAD2023SecATeam10 <br /> <br />
 # CookBook - Food Recipe App <br /> <br />
-**Demo**:
+
+**1. Architecture:**
+
+<img width="1061" alt="Architecture" src="https://github.com/CPAD2023/CPAD2023SecATeam10/assets/133057108/5888ee9e-dccc-459f-bed5-1b7eed86acbf">
+
+**2. Demo**:
+
 **Demo API**
 
 https://github.com/CPAD2023/CPAD2023SecATeam10/assets/145185421/f9df5b39-336e-4396-a8fd-a2aeea3a6056
